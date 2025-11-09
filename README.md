@@ -25,6 +25,9 @@ lib/
 
 ## Screenshot
 
+<img width="407" height="828" alt="iPhone-13-PRO-localhost (6)" src="https://github.com/user-attachments/assets/12837ef5-2939-440f-9562-c4c804f7e2ee" />
+<img width="407" height="828" alt="iPhone-13-PRO-localhost (7)" src="https://github.com/user-attachments/assets/36746f49-4a65-46e4-8bb5-a92ace962077" />
+<img width="407" height="828" alt="iPhone-13-PRO-localhost (8)" src="https://github.com/user-attachments/assets/8bfe8157-7dc3-44c7-a1c8-7257c2623c40" />
 
 ## Penjelasan Proses Passing Data
 
